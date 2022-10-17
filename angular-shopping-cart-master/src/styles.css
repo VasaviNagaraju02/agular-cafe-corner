@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+body{
+  background-image: url('https://beezzly.com/wp-content/uploads/2020/12/what-are-tea-cups-and-coffee-cup.jpg');
+  background-repeat: no-repeat;background-size: cover;
+}
+p {
+  color: #8a8282;
+  display:block;
+  font-family:Roboto, "Helvetica Neue", sans-serif;
+}
